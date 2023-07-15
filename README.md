@@ -1,4 +1,4 @@
-### I'm The Man From Nowhere 😄
+### The Man From Nowhere
 
 <!--
 **fabianomsrc/fabianomsrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
